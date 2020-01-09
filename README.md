@@ -5,6 +5,17 @@
 
 La práctica aborda la creación de una clase Alimento, que guarde los atributos necesarios para poder calcular las kilocalorías que contienen en CarboHidratos, Proteínas y Lípidos. Aparte se ha creado la clase Menú, que guarda varios alimentos que se consumen al día y muestra el total de GEI (Gases de Efecto Invernadero) y el terreno usado en metros cuadrados al día para cultivar dichos alimentos.
 
+# Travis
+
+https://travis-ci.com/alu0100901214/ULL_LPP_Practica_10
+
+
+
+
+
+
+
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------
