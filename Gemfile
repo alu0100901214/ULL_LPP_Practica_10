@@ -5,4 +5,4 @@ gemspec
 
 gem 'rake', '~> 10.0'
 gem 'rspec'
-
+gem 'coveralls', require: false

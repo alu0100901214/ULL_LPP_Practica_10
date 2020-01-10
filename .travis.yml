@@ -5,3 +5,5 @@ cache: bundler
 rvm:
   - 2.6.3
 before_install: gem install bundler -v 2.0.2
+service_name: travis-pro
+repo_token: Xo7IhPD4dmYtH9CsGIPjovKbW7e2XdMKg

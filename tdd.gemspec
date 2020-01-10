@@ -10,13 +10,13 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Huella nutricional}
   spec.description   = %q{Clases necesarias para describir la huella nutricional de determinados productos alimenticios.}
-  spec.homepage      = "https://github.com/ULL-ESIT-LPP-1920/tdd-alu0100901214.git"
+  spec.homepage      = "https://rubygems/gems/tdd"
   spec.license       = "MIT"
 
-  spec.metadata["allowed_push_host"] = "https://github.com/ULL-ESIT-LPP-1920/tdd-alu0100901214.git"
+#  spec.metadata["allowed_push_host"] = "https://github.com/ULL-ESIT-LPP-1920/tdd-alu0100901214.git"
 
-  spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/ULL-ESIT-LPP-1920/tdd-alu0100901214.git"
+# spec.metadata["homepage_uri"] = spec.homepage
+#  spec.metadata["source_code_uri"] = "https://github.com/ULL-ESIT-LPP-1920/tdd-alu0100901214.git"
 #  spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
 
   # Specify which files should be added to the gem when it is released.
