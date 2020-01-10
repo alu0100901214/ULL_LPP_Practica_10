@@ -11,7 +11,7 @@ https://travis-ci.com/alu0100901214/ULL_LPP_Practica_10
 
 # Coveralls
 
-https://coveralls.io/repos/github/alu0100901214/ULL_LPP_Practica_10/badge.svg?branch=master(Coverage Status)!:https://coveralls.io/github/alu0100901214/ULL_LPP_Practica_10?branch=master
+[![Coverage Status](https://coveralls.io/repos/github/alu0100901214/ULL_LPP_Practica_10/badge.svg?branch=master)](https://coveralls.io/github/alu0100901214/ULL_LPP_Practica_10?branch=master)
 
 
 
